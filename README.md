@@ -35,5 +35,7 @@ $ echo "help" | ./console.py (hbnb) Documented commands (type help <topic>): ===
 All tests should also pass in non-interactive mode: $ echo "python3 -m unittest discover tests" | bash
 
 Authors
+
 #Ezenna Frank
+
 #Adedolapo Adefaye 
